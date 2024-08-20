@@ -4,7 +4,7 @@ silent aimbot for roblox games
 
 ## what it does
 
-- works in many roblox games
+- works in most roblox games
 - predicts moving targets
 - fov circle
 - esp
@@ -17,4 +17,4 @@ turn on/off with right alt key
 
 ## warning
 
-for learning only. use at your own risk.
+nil
