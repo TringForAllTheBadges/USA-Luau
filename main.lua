@@ -22,7 +22,7 @@ local SilentAim = {
     ESPThickness = 2,
     ESPTransparency = 0.5,
     PredictionEnabled = true,
-    PredictionAmount = 0.165
+    PredictionAmount = 0.165 -- useless.
 }
 
 local CircleDrawing = Drawing.new("Circle")
